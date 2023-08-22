@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="C:\Users\Quentinomade2T2022\AndroidStudioProjects\VEZapp\app"
+    name=":app"
+    type="APP"
+    maven="VEZapp:app:"
+    agpVersion="8.1.1"
+    buildFolder="build"
+    bootClassPath="C:\Users\Quentinomade2T2022\AppData\Local\Android\Sdk\platforms\android-33\android.jar;C:\Users\Quentinomade2T2022\AppData\Local\Android\Sdk\build-tools\33.0.1\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vicieuw</string>
+    <string name="welcome_msg">Bienvenue sur Vicieuw</string>
+    <string name="point_msg">Points : 0</string>
+</resources>

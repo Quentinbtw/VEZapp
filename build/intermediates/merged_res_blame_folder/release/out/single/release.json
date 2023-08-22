@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "vezrro.fr.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "vezrro.fr.app-main-29:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "vezrro.fr.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "vezrro.fr.app-main-29:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "vezrro.fr.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "vezrro.fr.app-main-29:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "vezrro.fr.app-merged_res-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "vezrro.fr.app-main-29:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "vezrro.fr.app-merged_res-28:/xml_data_extraction_rules.xml.flat",
+        "source": "vezrro.fr.app-main-29:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "vezrro.fr.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "vezrro.fr.app-main-29:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "vezrro.fr.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "vezrro.fr.app-main-29:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "vezrro.fr.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "vezrro.fr.app-main-29:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "vezrro.fr.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "vezrro.fr.app-main-29:/layout/activity_main.xml"
+    },
+    {
+        "merged": "vezrro.fr.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "vezrro.fr.app-main-29:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "vezrro.fr.app-merged_res-28:/layout_activity_cookie.xml.flat",
+        "source": "vezrro.fr.app-main-29:/layout/activity_cookie.xml"
+    },
+    {
+        "merged": "vezrro.fr.app-merged_res-28:/drawable_bg.png.flat",
+        "source": "vezrro.fr.app-main-29:/drawable/bg.png"
+    },
+    {
+        "merged": "vezrro.fr.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "vezrro.fr.app-main-29:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "vezrro.fr.app-merged_res-28:/drawable_cookie.png.flat",
+        "source": "vezrro.fr.app-main-29:/drawable/cookie.png"
+    },
+    {
+        "merged": "vezrro.fr.app-merged_res-28:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "vezrro.fr.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "vezrro.fr.app-merged_res-28:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "vezrro.fr.app-main-29:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "vezrro.fr.app-merged_res-28:/drawable_button.png.flat",
+        "source": "vezrro.fr.app-main-29:/drawable/button.png"
+    },
+    {
+        "merged": "vezrro.fr.app-merged_res-28:/xml_backup_rules.xml.flat",
+        "source": "vezrro.fr.app-main-29:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "vezrro.fr.app-merged_res-28:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "vezrro.fr.app-main-29:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "vezrro.fr.app-merged_res-28:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "vezrro.fr.app-main-29:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "vezrro.fr.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "vezrro.fr.app-main-29:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
